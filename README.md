@@ -2,8 +2,8 @@
 ## Proceso
 Tenemos que contar con:
 - Repositorio base en local.
-- Teenet un virtualenv.
-- Seguir tuotial de django parte 1 y parte 2
+- Tener un virtualenv.
+- Seguir tutorial de django parte 1 y parte 2
 
 ## Pasos a seguir
 - Creamos el fichero .env el el direcotorio donde se encuentra nuestro poryecto.
